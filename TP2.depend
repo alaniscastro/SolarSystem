@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1618072142 source:c:\users\alani\onedrive\documentos\computação gráfica\tp2\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<math.h>
+	"SOIL/SOIL.h"
+	"stdio.h"
+	<windows.h>
+	<MMsystem.h>
+
+1611518732 c:\program files (x86)\codeblocks\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1611518711 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1611518711 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1611518711 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1611518746 c:\program files (x86)\codeblocks\mingw\include\soil\soil.h
+
+1611518711 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1618009478 source:c:\users\alani\onedrive\documentos\computação gráfica\tp2\x.cpp
+	<gl/glut.h>
+	"SOIL/SOIL.h"
+	"stdio.h"
+
+1615153452 c:\users\alani\onedrive\documentos\computação gráfica\tp2\soil\soil.h
+
